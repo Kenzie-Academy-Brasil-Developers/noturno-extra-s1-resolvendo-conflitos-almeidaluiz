@@ -47,3 +47,7 @@ Luiz é um químico formado há mais de 20 anos;
 ## Segundo fato sobre <Luiz Claudio>
 
 ...Mas, apartir de agora, com muito esforço e ajuda da Kenzie Academy...;
+
+## Terceiro fato sobre <Luiz Claudio>
+
+... no final desse trajeto: Vou ser Dev!!!;
