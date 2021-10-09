@@ -36,3 +36,10 @@ Algum fato do primeiro DEV;
 ```
 
 Depois de feitas as alterações, o Líder, junto da equipe deve retornar para o branch Main e faça um merge com o branch ``primeiro_fato`` de cada um dos DEVs e repetir com todos os outros fatos.
+
+
+# Entrega: Resolvendo Conflitos.
+
+## Terceiro fato sobre <Luiz Claudio>
+
+... no final desse trajeto: Vou ser Dev!!!;
