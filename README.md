@@ -43,3 +43,7 @@ Depois de feitas as alterações, o Líder, junto da equipe deve retornar para o
 ## Primeiro fato sobre Luiz Claudio
 
 Luiz é um químico formado há mais de 20 anos;
+
+## Segundo fato sobre <Luiz Claudio>
+
+...Mas, apartir de agora, com muito esforço e ajuda da Kenzie Academy...;
